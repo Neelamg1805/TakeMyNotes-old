@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
+
+
+*{
+    box-sizing: border-box;
+    
+
+}
+ ul li a i,span{
+    color: black;
+}
+ul li a :hover{
+    /* background-color: white; */
+    padding: 10px;
+    color: rgb(14, 227, 14);
+}

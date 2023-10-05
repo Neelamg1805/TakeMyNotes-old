@@ -29,7 +29,7 @@
     <div class="card border-0 mt-5 ms-5 ">
       <div class="card-body" style="margin-top:100px;">
         <h2 class="card-title  font-weight-bold">Computer Science Engineering</h2>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br> a recusandae, deserunt hic eos ex cum iste perferendis delectus odit asperiores facilis sint sed debitis.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> a recusandae, deserunt hic eos ex cum iste perferendis delectus odit asperiores facilis sint sed debitis.</p>
       </div>
     </div>
   </div>
